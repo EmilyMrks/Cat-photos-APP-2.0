@@ -2,5 +2,22 @@ h1 {
     text-align: center;
 }
 body {
-    background-color:black;
+    background-image: url('back.jpg');
+    background-size: auto 2%;
+    background-repeat: no-repeat; 
+    background-position: bottom right;
+}
+#Catlove {
+    width: 50%;
+    margin-right: auto;
+    background-color:rgb(216, 108, 135);
+}
+
+#cathate{
+    width: 50%;
+    margin-left: auto;
+    background-color:rgb(216, 160, 108);
+}
+footer {
+    text-align: center;
 }
